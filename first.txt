@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 this is first file
 master change
+=======
+this is first file dev change
+>>>>>>> dev
